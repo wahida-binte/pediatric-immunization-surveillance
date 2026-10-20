@@ -1,0 +1,5 @@
+# Treat Power BI files as binary so Git never tries to diff or merge them
+*.pbix binary
+*.pbit binary
+*.png  binary
+*.jpg  binary

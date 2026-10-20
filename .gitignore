@@ -1,0 +1,16 @@
+# Power BI temporary / cache files
+*.tmp
+*.temp
+*.pbix.bak
+.pbi/localSettings.json
+.pbi/cache.abf
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/

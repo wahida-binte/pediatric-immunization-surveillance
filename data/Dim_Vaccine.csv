@@ -1,0 +1,17 @@
+vaccine,antigen_type,target_disease
+BCG,Bacterial,Tuberculosis
+DTP1,Bacterial,Diphtheria/Tetanus/Pertussis
+DTP3,Bacterial,Diphtheria/Tetanus/Pertussis
+HEPB3,Viral,Hepatitis B
+HEPBB,Viral,Hepatitis B
+HIB3,Bacterial,Haemophilus influenzae type b
+IPV1,Viral,Polio
+IPV2,Viral,Polio
+MCV1,Viral,Measles
+MCV2,Viral,Measles
+MENGA,Bacterial,Meningococcal A
+PCV3,Bacterial,Pneumococcal Disease
+POL3,Viral,Polio
+RCV1,Viral,Rubella
+ROTAC,Viral,Rotavirus Diarrhea
+YFV,Viral,Yellow Fever

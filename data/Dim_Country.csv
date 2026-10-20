@@ -1,0 +1,196 @@
+iso3,country,unicef_region
+AFG,Afghanistan,ROSA
+AGO,Angola,ESAR
+ALB,Albania,ECAR
+AND,Andorra,Non-programme
+ARE,United Arab Emirates,MENA
+ARG,Argentina,LACR
+ARM,Armenia,ECAR
+ATG,Antigua and Barbuda,LACR
+AUS,Australia,Non-programme
+AUT,Austria,Non-programme
+AZE,Azerbaijan,ECAR
+BDI,Burundi,ESAR
+BEL,Belgium,Non-programme
+BEN,Benin,WCAR
+BFA,Burkina Faso,WCAR
+BGD,Bangladesh,ROSA
+BGR,Bulgaria,ECAR
+BHR,Bahrain,MENA
+BHS,Bahamas,LACR
+BIH,Bosnia and Herzegovina,ECAR
+BLR,Belarus,ECAR
+BLZ,Belize,LACR
+BOL,Bolivia (Plurinational State of),LACR
+BRA,Brazil,LACR
+BRB,Barbados,LACR
+BRN,Brunei Darussalam,EAPR
+BTN,Bhutan,ROSA
+BWA,Botswana,ESAR
+CAF,Central African Republic,WCAR
+CAN,Canada,Non-programme
+CHE,Switzerland,Non-programme
+CHL,Chile,LACR
+CHN,China,EAPR
+CIV,Cote d'Ivoire,WCAR
+CMR,Cameroon,WCAR
+COD,Democratic Republic of the Congo,WCAR
+COG,Congo,WCAR
+COK,Cook Islands,EAPR
+COL,Colombia,LACR
+COM,Comoros,ESAR
+CPV,Cabo Verde,WCAR
+CRI,Costa Rica,LACR
+CUB,Cuba,LACR
+CYP,Cyprus,Non-programme
+CZE,Czechia,Non-programme
+DEU,Germany,Non-programme
+DJI,Djibouti,MENA
+DMA,Dominica,LACR
+DNK,Denmark,Non-programme
+DOM,Dominican Republic,LACR
+DZA,Algeria,MENA
+ECU,Ecuador,LACR
+EGY,Egypt,MENA
+ERI,Eritrea,ESAR
+ESP,Spain,Non-programme
+EST,Estonia,Non-programme
+ETH,Ethiopia,ESAR
+FIN,Finland,Non-programme
+FJI,Fiji,EAPR
+FRA,France,Non-programme
+FSM,Micronesia (Federated States of),EAPR
+GAB,Gabon,WCAR
+GBR,United Kingdom,Non-programme
+GEO,Georgia,ECAR
+GHA,Ghana,WCAR
+GIN,Guinea,WCAR
+GMB,Gambia,WCAR
+GNB,Guinea-Bissau,WCAR
+GNQ,Equatorial Guinea,WCAR
+GRC,Greece,ECAR
+GRD,Grenada,LACR
+GTM,Guatemala,LACR
+GUY,Guyana,LACR
+HND,Honduras,LACR
+HRV,Croatia,ECAR
+HTI,Haiti,LACR
+HUN,Hungary,Non-programme
+IDN,Indonesia,EAPR
+IND,India,ROSA
+IRL,Ireland,Non-programme
+IRN,Iran (Islamic Republic of),MENA
+IRQ,Iraq,MENA
+ISL,Iceland,Non-programme
+ISR,Israel,Non-programme
+ITA,Italy,Non-programme
+JAM,Jamaica,LACR
+JOR,Jordan,MENA
+JPN,Japan,Non-programme
+KAZ,Kazakhstan,ECAR
+KEN,Kenya,ESAR
+KGZ,Kyrgyzstan,ECAR
+KHM,Cambodia,EAPR
+KIR,Kiribati,EAPR
+KNA,Saint Kitts and Nevis,LACR
+KOR,Republic of Korea,Non-programme
+KWT,Kuwait,MENA
+LAO,Lao People's Democratic Republic,EAPR
+LBN,Lebanon,MENA
+LBR,Liberia,WCAR
+LBY,Libya,MENA
+LCA,Saint Lucia,LACR
+LKA,Sri Lanka,ROSA
+LSO,Lesotho,ESAR
+LTU,Lithuania,Non-programme
+LUX,Luxembourg,Non-programme
+LVA,Latvia,Non-programme
+MAR,Morocco,MENA
+MCO,Monaco,Non-programme
+MDA,Republic of Moldova,ECAR
+MDG,Madagascar,ESAR
+MDV,Maldives,ROSA
+MEX,Mexico,LACR
+MHL,Marshall Islands,EAPR
+MKD,North Macedonia,ECAR
+MLI,Mali,WCAR
+MLT,Malta,Non-programme
+MMR,Myanmar,EAPR
+MNE,Montenegro,ECAR
+MNG,Mongolia,EAPR
+MOZ,Mozambique,ESAR
+MRT,Mauritania,WCAR
+MUS,Mauritius,Non-programme
+MWI,Malawi,ESAR
+MYS,Malaysia,EAPR
+NAM,Namibia,ESAR
+NER,Niger,WCAR
+NGA,Nigeria,WCAR
+NIC,Nicaragua,LACR
+NIU,Niue,EAPR
+NLD,Netherlands (Kingdom of the),Non-programme
+NOR,Norway,Non-programme
+NPL,Nepal,ROSA
+NRU,Nauru,EAPR
+NZL,New Zealand,Non-programme
+OMN,Oman,MENA
+PAK,Pakistan,ROSA
+PAN,Panama,LACR
+PER,Peru,LACR
+PHL,Philippines,EAPR
+PLW,Palau,EAPR
+PNG,Papua New Guinea,EAPR
+POL,Poland,Non-programme
+PRK,Democratic People's Republic of Korea,EAPR
+PRT,Portugal,Non-programme
+PRY,Paraguay,LACR
+PSE,State of Palestine,MENA
+QAT,Qatar,MENA
+ROU,Romania,ECAR
+RUS,Russian Federation,Non-programme
+RWA,Rwanda,ESAR
+SAU,Saudi Arabia,MENA
+SDN,Sudan,MENA
+SEN,Senegal,WCAR
+SGP,Singapore,Non-programme
+SLB,Solomon Islands,EAPR
+SLE,Sierra Leone,WCAR
+SLV,El Salvador,LACR
+SMR,San Marino,Non-programme
+SOM,Somalia,ESAR
+SRB,Serbia,ECAR
+SSD,South Sudan,ESAR
+STP,Sao Tome and Principe,WCAR
+SUR,Suriname,LACR
+SVK,Slovakia,Non-programme
+SVN,Slovenia,Non-programme
+SWE,Sweden,Non-programme
+SWZ,Eswatini,ESAR
+SYC,Seychelles,Non-programme
+SYR,Syrian Arab Republic,MENA
+TCD,Chad,WCAR
+TGO,Togo,WCAR
+THA,Thailand,EAPR
+TJK,Tajikistan,ECAR
+TKM,Turkmenistan,ECAR
+TLS,Timor-Leste,EAPR
+TON,Tonga,EAPR
+TTO,Trinidad and Tobago,LACR
+TUN,Tunisia,MENA
+TUR,Turkiye,ECAR
+TUV,Tuvalu,EAPR
+TZA,United Republic of Tanzania,ESAR
+UGA,Uganda,ESAR
+UKR,Ukraine,ECAR
+URY,Uruguay,LACR
+USA,United States,Non-programme
+UZB,Uzbekistan,ECAR
+VCT,Saint Vincent and the Grenadines,LACR
+VEN,Venezuela (Bolivarian Republic of),LACR
+VNM,Viet Nam,EAPR
+VUT,Vanuatu,EAPR
+WSM,Samoa,EAPR
+YEM,Yemen,MENA
+ZAF,South Africa,ESAR
+ZMB,Zambia,ESAR
+ZWE,Zimbabwe,ESAR
