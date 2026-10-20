@@ -120,4 +120,4 @@ WHO/UNICEF Estimates of National Immunization Coverage (WUENIC). Data are reprod
 
 ## Author
 
-**Faiza Binte Zaman**, M.Sc. in Computer Science, American International University-Bangladesh
+**Faiza Binte Zaman**
