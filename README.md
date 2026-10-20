@@ -109,7 +109,7 @@ All figures computed from the data in `data/`, with no slicer selections.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/pediatric-immunization-surveillance.git
+   git clone https://github.com/wahida-binte/pediatric-immunization-surveillance.git
    ```
 2. Open `Pediatric_Immunization_Surveillance.pbix` in Power BI Desktop. The report opens with its data already loaded.
 3. To refresh from the CSVs, go to **Transform data > Data source settings > Change Source** and point each query to the matching file in `data/`.
